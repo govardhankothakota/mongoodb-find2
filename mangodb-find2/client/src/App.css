@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table{
+  border-collapse:collapse ;
+  background-color: rgb(205, 255, 238);
+  border-radius: 10px;
+}
+table,th,td{
+border: 2px solid black;
+padding: 10px;
+}
+th{
+  color: rgb(255, 80, 167);
+}
